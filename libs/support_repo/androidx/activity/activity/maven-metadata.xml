@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>androidx.activity</groupId>
+  <artifactId>activity</artifactId>
+  <versioning>
+    <release>1.2.0-alpha01</release>
+    <versions>
+      <version>1.2.0-alpha01</version>
+    </versions>
+    <lastUpdated>20191021174848</lastUpdated>
+  </versioning>
+</metadata>
