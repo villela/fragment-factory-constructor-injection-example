@@ -8,6 +8,5 @@ class AppModule(application: Application) : Module() {
 
     init {
         bind(Application::class.java).toInstance(application)
-        bind(Context::class.java).toInstance(application.applicationContext)
     }
 }
