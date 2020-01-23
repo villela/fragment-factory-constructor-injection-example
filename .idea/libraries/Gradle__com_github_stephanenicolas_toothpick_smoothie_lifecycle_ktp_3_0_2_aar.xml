@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.stephanenicolas.toothpick:smoothie-lifecycle-ktp:3.0.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/361cc15c70da081b1b5fb008500fe167/smoothie-lifecycle-ktp-3.0.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/361cc15c70da081b1b5fb008500fe167/smoothie-lifecycle-ktp-3.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0f47c9e9872ee758385525f53987529/smoothie-lifecycle-ktp-3.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0f47c9e9872ee758385525f53987529/smoothie-lifecycle-ktp-3.0.2/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stephanenicolas.toothpick/smoothie-lifecycle-ktp/3.0.2/78e769fffe12ef247055169a907fe7d264e465e4/smoothie-lifecycle-ktp-3.0.2-javadoc.jar!/" />

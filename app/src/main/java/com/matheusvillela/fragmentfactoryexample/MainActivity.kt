@@ -6,7 +6,6 @@ import android.os.Bundle
 import androidx.core.os.bundleOf
 import toothpick.config.Module
 import toothpick.ktp.KTP
-import java.io.Serializable
 import java.util.*
 
 

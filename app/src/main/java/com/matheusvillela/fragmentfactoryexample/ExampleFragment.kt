@@ -1,6 +1,5 @@
 package com.matheusvillela.fragmentfactoryexample
 
-import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.view.LayoutInflater
@@ -11,7 +10,6 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import kotlinx.android.synthetic.main.fragment_example.*
 import toothpick.InjectConstructor
-import java.lang.IllegalArgumentException
 
 @InjectConstructor
 class ExampleFragment(

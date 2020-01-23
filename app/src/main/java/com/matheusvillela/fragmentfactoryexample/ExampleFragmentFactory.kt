@@ -1,7 +1,6 @@
 package com.matheusvillela.fragmentfactoryexample
 
 import android.os.Bundle
-import android.os.Parcelable
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentFactory
 import androidx.lifecycle.LifecycleObserver

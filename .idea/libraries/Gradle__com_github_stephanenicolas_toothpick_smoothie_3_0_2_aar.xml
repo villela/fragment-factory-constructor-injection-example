@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.stephanenicolas.toothpick:smoothie:3.0.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7821cffc125639505a737ab866552b1/jetified-smoothie-3.0.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7821cffc125639505a737ab866552b1/jetified-smoothie-3.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a51234c6918d9f0e795fccf26b101390/jetified-smoothie-3.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a51234c6918d9f0e795fccf26b101390/jetified-smoothie-3.0.2/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stephanenicolas.toothpick/smoothie/3.0.2/cb5b89352c85a77f3394b0c1a9f2e1f8b5cff8bb/smoothie-3.0.2-javadoc.jar!/" />
