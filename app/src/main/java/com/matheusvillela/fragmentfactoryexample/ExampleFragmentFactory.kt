@@ -44,6 +44,7 @@ class ExampleFragmentFactory(private val scope: Scope) : FragmentFactory() {
                 }
             }, ViewModelModule())
         }
+        val publisher = subScope.getInstance(OnClearedPublisher::class.java)
         val fragment = subScope.getInstance(cls)
         fragment.lifecycle.addObserver(object : LifecycleObserver {
             @OnLifecycleEvent(Lifecycle.Event.ON_DESTROY)
@@ -51,6 +52,7 @@ class ExampleFragmentFactory(private val scope: Scope) : FragmentFactory() {
                 if (fragment.isRemoving) {
                     KTP.closeScope(subScope)
                     fragment.lifecycle.removeObserver(this)
+                    publisher.publish()
                 }
             }
         })
